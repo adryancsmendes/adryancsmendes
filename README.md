@@ -4,7 +4,6 @@ Meu nome é Adryan Mendes, tenho 21 anos, moro em Conselheiro Lafaiete/MG. Atual
 
 ### 🖥️ Tecnologias e Ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adryancsmendes&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryancsmendes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
