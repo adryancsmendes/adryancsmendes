@@ -4,9 +4,10 @@ Meu nome é Adryan Mendes, tenho 21 anos, moro em Conselheiro Lafaiete/MG. Atual
 
 Estou trabalhando no momento na <a href="https://vyudu.com/">Vyudu Inc</a>.
 
-Me encontre em...
+Me encontre no...
 
-<a href="https://www.linkedin.com/in/adryan-c%C3%A9sar-mendes-527248186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+<a href="https://www.linkedin.com/in/adryan-c%C3%A9sar-mendes-527248186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>&nbsp;&nbsp;<a href="https://www.instagram.com/adryancsmendes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>&nbsp;&nbsp;
+
 
 <br>
 
