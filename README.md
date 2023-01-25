@@ -6,7 +6,7 @@ Estou trabalhando no momento na <a href="https://vyudu.com/">Vyudu Inc</a>.
 
 Me encontre em...
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/adryan-c%C3%A9sar-mendes-527248186/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
 
 <br>
 
