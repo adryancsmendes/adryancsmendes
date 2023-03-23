@@ -6,7 +6,7 @@ Meu nome é Adryan Mendes, tenho 21 anos, moro em Conselheiro Lafaiete/MG. Atual
 
 ### 🔍 Me encontre no...
 
-<a href="https://www.linkedin.com/in/adryancsmendes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>&nbsp;&nbsp;<a href="https://www.instagram.com/adryancsmendes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>&nbsp;&nbsp;<a href="mailto:adryanmendes2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>&nbsp;&nbsp;<a href="https://www.facebook.com/adryan.cesar.9"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"><a/>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/adryancsmendes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>&nbsp;&nbsp;<a href="mailto:adryanmendes2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
 
 
 
