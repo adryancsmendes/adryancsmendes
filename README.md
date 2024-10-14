@@ -1,10 +1,10 @@
 # hello world, I'm Adryan!👋🌎
 
-Meu nome é Adryan Mendes, tenho 21 anos, moro em Conselheiro Lafaiete/MG. Atualmente estudo e trabalho com desenvolvimento Front-end. Sou apaixonado pela tecnologia e por isso mantenho-me sempre estudando e me aprimorando a cada dia. Sou um constante aprendiz que está sempre buscando se atualizar com as novidades do mercado tecnológico. 😼
+My name is Adryan Mendes, I'm 21 years old and I live in Conselheiro Lafaiete/MG. I work with Front-end development. I'm passionate about technology and that's why I'm always studying and improving myself every day. I'm a constant learner who's always looking to keep up to date with what's new in the technology market. 😼
 
 
 
-### 🔍 Me encontre no...
+### 🔍 Meet me at...
 
 <a href="https://www.linkedin.com/in/adryancsmendes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>&nbsp;&nbsp;<a href="mailto:adryanmendes2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
 
@@ -12,7 +12,7 @@ Meu nome é Adryan Mendes, tenho 21 anos, moro em Conselheiro Lafaiete/MG. Atual
 
 <br>
 
-## 🖥️ Tecnologias e Ferramentas
+## 🖥️ Technologies and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
