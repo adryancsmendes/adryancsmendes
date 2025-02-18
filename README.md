@@ -1,6 +1,6 @@
 # hello world, I'm Adryan!👋🌎
 
-My name is Adryan Mendes, I'm 21 years old and I live in Conselheiro Lafaiete/MG. I work with Front-end development. I'm passionate about technology and that's why I'm always studying and improving myself every day. I'm a constant learner who's always looking to keep up to date with what's new in the technology market. 😼
+My name is Adryan Mendes, I'm 23 years old and I live in Conselheiro Lafaiete/MG. I work with Front-end development. I'm passionate about technology and that's why I'm always studying and improving myself every day. I'm a constant learner who's always looking to keep up to date with what's new in the technology market. 😼
 
 
 
